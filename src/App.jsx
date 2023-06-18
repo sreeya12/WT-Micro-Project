@@ -12,7 +12,7 @@ function App() {
     // Set the channel name.
     channel: 'Channel',
     // Pass your temp token here.
-    token: '007eJxTYNjuvVRhw185RTt1jgb2sJ6JUW2/4lo6vzh5n8/pMZO6Hq3AYGJgmGhikGyYYpxmaJJqZmiRnJiSkpxqYWmQZmhsmWqYYdCW0hDIyGBalcLMyACBID47g3NGYl5eag4DAwAT7B5M',
+    token: '007eJxTYJjXpbl+pd7df+GNWz6F2F+01/I4YcDS8YCxd7Pqsog/C24qMJgYGCaaGCQbphinGZqkmhlaJCempCSnWlgapBkaW6YaTnDrT2kIZGS4dVCRlZEBAkF8dgbnjMS8vNQcBgYA/x8hlw==',
     // Set the user ID.
     uid: 0,
 };
